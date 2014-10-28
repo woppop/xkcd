@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; }
+body { background-color: #242C2C; }
+
+.container { background-color: #242C2C; display: block; padding-top: 50px; width: 100%; }
+.title { color: #FF6578; display: block; font-family: 'Abril Fatface', cursive; font-size: 92px; font-weight: 400; line-height: 84px; margin: 0 auto; text-align: center; width: 800px; }
+.date { border-bottom: 2px solid #FF6578; color: #999; font-family: 'Open Sans', sans-serif; font-weight: 300; line-height: 30px; margin-bottom: 15px; padding-bottom: 5px; text-align: center; }
+.image { background-color: #fff; }
+.image img { display: block; margin: 0 auto; padding: 20px; }
+.alt { border-top: 4px solid #FF6578; color: #999; display: block; font-family: 'Open Sans', sans-serif; font-size: 18px; font-weight: 300; line-height: 24px; margin: 15px auto; padding-top: 10px; text-align: left; width: 600px; }
+.next { display: block; margin: 0 auto; position: relative; width: 600px; }
+.next button { background-color: #FF6578; border: none; font-family: 'Open Sans', sans-serif; font-size: 12px; font-weight: bold; padding: 8px 15px; margin-bottom: 50px; position: absolute; right: 0px; text-align: center; text-transform: uppercase; }
+.next button:hover { background-color: #fff; color: #FF6578; cursor: pointer; font-weight: bold; }
+.next button:focus { outline: none; }
